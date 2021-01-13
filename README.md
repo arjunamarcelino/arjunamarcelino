@@ -13,10 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arjunamarcelino.github.io/profil/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arjuna Marcelino | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Arjuna Marcelino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Arjuna Marcelino | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Arjuna Marcelino | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -47,6 +48,18 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Tantangan Masa Depan : Pendidikan Berkeadilan](https://medium.com/@arjunamarcelino/tantangan-masa-depan-pendidikan-berkeadilan-e1e6ade3d5f6)
+- [Pembelajaran Jarak Jauh Akibat Pandemi Covid-19](https://medium.com/@arjunamarcelino/pembelajaran-jarak-jauh-akibat-pandemi-covid-19-fa7a90574c2e)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@arjunamarcelino)
+
+---
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -59,4 +72,4 @@
 [youtube]: https://www.youtube.com/channel/UC7d07lTaF0UB5aXa03CElHA
 [instagram]: https://instagram.com/arjuna_marcelino
 [linkedin]: https://www.linkedin.com/in/arjuna-marcelino-052833178/
-
+[medium]: https://medium.com/@arjunamarcelino
