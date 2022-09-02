@@ -4,10 +4,9 @@
 
 ## I'm a Student and Mentor!!
 
-- 🔭 I just launched my first course: [PERSIAPAN UTBK 2021][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Make more project to develop my skills
+- 🥅 2022 Goals: Make more project to develop my skills
 - ⚡ Fun fact: I love to listen music and play drums
 
 
